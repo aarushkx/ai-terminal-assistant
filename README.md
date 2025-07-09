@@ -9,9 +9,6 @@ An interactive, terminal-based AI assistant powered by Google's Gemini. This age
 ## ❓How It Works
 
 -   You ask a question in natural language via the terminal
-
 -   LLM responds with reasoning (think), then decides on an action (a tool)
-
 -   Tool output is passed back for final output to you
-
 -   If code is generated with filename, it writes it to disk
